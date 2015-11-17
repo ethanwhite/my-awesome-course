@@ -6,11 +6,11 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry -for- Biologists
+title:            Data Carpentry
 tagline:          'A Jekyll theme'
 description:      'Teaching biologists the tools they need to use computers to do cool science'
 url:              http://www.progbio.org
-baseurl:          /semester-biology
+baseurl:          /my-awesome-course
 
 author:
   name:           'Ethan White'
